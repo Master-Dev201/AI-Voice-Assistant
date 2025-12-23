@@ -1,4 +1,3 @@
-````markdown
 # AI Voice Assistant
 
 An AI-powered voice assistant built with **React** and **TypeScript**, integrating **Hugging Face Inference API** for real-time natural language understanding, speech recognition, and text-to-speech. Designed as a practical ML-enabled frontend application demonstrating AI integration in production-ready web apps.
